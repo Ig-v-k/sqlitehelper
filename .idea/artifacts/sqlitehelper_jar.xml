@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sqlitehelper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sqlitehelper_jar</output-path>
+    <root id="archive" name="sqlitehelper.jar">
+      <element id="module-output" name="sqlitehelper" />
+    </root>
+  </artifact>
+</component>
